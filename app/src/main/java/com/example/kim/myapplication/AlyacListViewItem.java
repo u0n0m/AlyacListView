@@ -2,7 +2,7 @@ package com.example.kim.myapplication;
 
 import android.graphics.drawable.Drawable;
 
-public class ListViewItem {
+public class AlyacListViewItem {
     private Drawable iconDrawable ;
     private String titleStr ;
     private String descStr ;
